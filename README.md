@@ -4,8 +4,8 @@
 ## Description
 This Android application showcases a clickable text view feature that provides additional information when tapped. Users can click on the designated text ("For more information, click here"), which then navigates them to a new page displaying more relevant content.
 
-![Clickable Text View Demo](path_to_your_clickable_text_view_image.png)
-![Clickable Text View Demo](path_to_your_clickable_text_view_image.png)
+![Clickable Text View Demo](clickableTextView1.png)
+![Clickable Text View Demo](clickableTextView2.png)
 
 
 ## Features
